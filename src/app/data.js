@@ -92,8 +92,8 @@ export const projectsData = [
     id: 11,
     name: "Law Landing Page",
     description: "Landing page for SAAS",
-    date: "2025-06-25",
-    demoLink: "https://github.com/NessWrites/gesture_recognition",
+    date: "2025-07-19",
+    demoLink: "https://dharmalaw1.vercel.app/",
   },
 ];
 
