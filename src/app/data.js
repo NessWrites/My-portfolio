@@ -87,6 +87,14 @@ export const projectsData = [
     date: "2022-02-14",
     demoLink: "https://github.com/NessWrites/gesture_recognition",
   },
+
+  {
+    id: 11,
+    name: "Law Landing Page",
+    description: "Landing page for SAAS",
+    date: "2025-06-25",
+    demoLink: "https://github.com/NessWrites/gesture_recognition",
+  },
 ];
 
 export const BtnList = [
@@ -118,6 +126,13 @@ export const BtnList = [
     icon: "resume",
     newTab: true,
   },
+  {
+    label: "Lawyer",
+    link: "https://dharmalaw1.vercel.app/",
+    icon: "resume",
+    newTab: true,
+  },
+
 ];
 
 
